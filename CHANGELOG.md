@@ -20,21 +20,17 @@ The rules for this file:
 
 ### Authors
 <!-- GitHub usernames of contributors to this release -->
-- IAlibay
-- lilyminium
-- fiona-naughton
+- jennaswa
 
 ### Added
 <!-- New added features -->
-- Added LICENSE
-- Added AUTHORS, CHANGELOG and code of conduct (PR #1)
-- Add logos
 
 ### Fixed
 <!-- Bug fixes -->
 
 ### Changed
 <!-- Changes in existing functionality -->
+- Updated information from [UGM 2023](https://github.com/MDAnalysis/UGM2023) repository clone
 
 ### Deprecated
 <!-- Soon-to-be removed features -->
