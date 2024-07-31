@@ -173,6 +173,6 @@ team mates to work with your code).
 
 For more details, go to the [mdakits](./mdakits) directory.
 
-[discord]: https://discord.com/invite/sAKgZZnPv4
-[hackathon-channel]: https://discord.com/channels/807348386012987462/1152628719354118205
+[discord]: https://discord.gg/kGaDXy7egd
+[hackathon-channel]: https://discord.com/channels/807348386012987462/1268305663558160516
 [issue-tracker]: https://github.com/MDAnalysis/UGM2024/issues
