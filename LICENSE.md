@@ -431,21 +431,20 @@ Creative Commons may be contacted at creativecommons.org.
 
 MDAnalysis logo
 
-The MDAnalysis 'Atom' logo was created by Christian Beckstein and is
+[NumFOCUS](https://numfocus.org/) as the fiscal sponsor of MDAnalysis
+holds all rights on the logos and any future derivatives.
 
-Copyright (c) 2011 Christian Beckstein
+Logos may only be used outside of the MDAnalysis project in compliance
+with NumFOCUS's Trademark Guidelines as written on the web page: [https://numfocus.org/trademark-guidelines](https://numfocus.org/trademark-guidelines).
 
-MDAnalysis Logo 'Atom' by Christian Beckstein is licensed under a
-Creative Commons Attribution-NoDerivs 3.0 Unported License.
-To view a copy of this license, visit
-http://creativecommons.org/licenses/by-nd/3.0/ or send a letter to Creative
-Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+For further information please contact NumFOCUS:
 
-The logo, and derivatives as detailed in the MDAnalysis/mdanalysis github
-repository, can be found in some of the individual sessions/lectures under the
-'imgs' directories. These are named "mdalogo.png" and "MDA-Background.png".
-Derivatives of the logo are also embedded in "Day3-Session1-Lecture/MDAParallelization.pdf"
-and "Day3-Closing-Lecture/MDAnalysis_Workshop_final_no_logo.pdf".
+  NumFOCUS  
+  P.O. Box 90596  
+  Austin, TX 78709  
+  [info@numfocus.org](mailto:info@numfocus.org)  
+  +1 ​(512) 831-2870
 
+The MDAnalysis 'Atom' logo was created by Christian Beckstein (@beckstein) in 2011.
 
 =======================================================================
