@@ -1,7 +1,7 @@
 # Hackathon
 
 As part of the [MDA
-UGM2023](https://www.mdanalysis.org/pages/ugm2023/) we are holding a
+UGM2024](https://www.mdanalysis.org/pages/ugm2024/) we are holding a
 *hackathon* for anybody interested in working with a number of
 MDAnalysis core developers on code --- it can be your own project
 where you want some help or start building something amazing with a
@@ -12,42 +12,31 @@ few like-minded hackers!
 sharing of ideas and discussion in the lead up to 
 the hackathon, during and after.
 
-* **Date**: Friday 29 September, 2023
-* **Check-in and registration**: 09:30 -- 10:00 (WEST)
-* **Time**: 10:00 -- 15:00 (WEST)
-* **Location**: [SANA Metropolitan
-  Hotel](https://www.sanahotels.com/en/hotel/sana-metropolitan/)
-  Madrid Room. 
+* **Date**: Friday 23 August, 2024
+* **Check-in and registration**: 09:00 -- 09:30 (BST)
+* **Time**: 09:30 -- 17:00 (BST)
+* **Location**: [King's College London (KCL) Bush House Lecture Theatre 1](https://www.kcl.ac.uk/kingsvenues/rooms/bh-lt1), Strand Campus
   
-  Address: R. Soeiro Pereira Gomes 2, 1600-198 Lisbon, PT
+  Address: 30 Aldwych, London, WC2B 4BG, United Kingdom
   
 ## Schedule 
 
-| time (WEST)   | what's happening?                |  location   |
-|---------------|----------------------------------|-------------|
-| 9:30 - 10:00  | Registration                     |             |
-| 10:00 - 10:30 | Introduction and team gathering  | Madrid room |
-| 10:30 - 12:00 | Hackathon                        | Madrid room |
-| 12:00 - 13:00 | *Lunch*\*                        |             |
-| 13:00 - 14:30 | Hackathon                        | Madrid room |
-| 14:30 - 15:00 | Wrap-up and [showcase](#showcase)| Madrid room |
+| time (BST)   | what's happening?                 |
+|---------------|----------------------------------|
+| 09:00 - 09:30 | Registration                     |
+| 09:30 - 10:15 | A Bird's Eye View of Contributing to and Maintaining Open Source Software |
+| 10:15 - 10:30 | Hackathon Introduction & Project Setup |
+| 10:30 - 12:30 | Hackathon                        |
+| 12:30 - 14:00 | *Lunch*                          |
+| 14:00 - 16:00 | Hackathon                        |
+| 16:00 - 17:00 | Wrap-up and [showcase](#showcase)|
 
-\* **Lunch is not provided** as part of the hackathon; attendees must 
-make their own arrangements. There are a number of nearby resturants 
-to choose from. You are welcome to leave for (and return from) lunch 
-at any time; the listed hours are to indicate what times members 
-of the MDAnalysis team will be on hand to help you with any 
-questions. 
-
-Coffee and tea *will* be provided. 
-
-
+Coffee, tea and lunch *will* be provided. 
 
 ## How do I participate?
 ### Before the hackathon
  - Read the hackathon materials, and read/watch any of the linked
    resources you're not already familiar with.
-   
  - If you don't already have a GitHub account, make one now! This
    will allow you to work collaboratively with others, and you'll need
    one to contribute to the main MDAnalysis codebase.
@@ -121,7 +110,7 @@ If you do wish to share, add a slide for you/your team to the
 shared presentation. We have a
 [Google Slides template](https://docs.google.com/presentation/d/1nezBx545EJlKI2_JRlTIz1L7PO7cdeLOYCcUzi4TsEc/edit#slide=id.g1e811d8524a_0_0),
 also available as a PDF ([./ShowcaseTemplate.pdf](ShowcaseTemplate.pdf)).
-Please submit as in **PDF format** for portability by
+Please submit in **PDF format** for portability by
 using [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSc80buxTloXq817K3_y5oSUWF1Hs6V8ngjnW3BNmWze7oBK1A/viewform?usp=sf_link).
 Depending how many wish to present, time may be short, so have 
 an elevator pitch summary for your work ready!
@@ -136,7 +125,6 @@ No code project is ever truly "finished", and we hope that you'll
 stick around - whether this is maintaining and improving your new 
 contribution, or finding other ways to contribute the broader 
 MDAnalysis ecosystem. We're always looking for more help!
-
 
 ## What should I work on?
 
@@ -185,18 +173,6 @@ team mates to work with your code).
 
 For more details, go to the [mdakits](./mdakits) directory.
 
-
-### MDAnalysis and Blender
-
-The [Molecular
-Nodes](https://bradyajohnston.github.io/MolecularNodes/) plugin (by
-@BradyAJohnston) for the 3D animation and rendering program
-[Blender](https://www.blender.org/) makes it possible to do highly
-professional renderings of MD trajectories. Under the hood, *Molecular
-Nodes* uses MDAnalysis for trajectory I/O. 
-
-For more details, go to the [blender](./blender) directory.
-
 [discord]: https://discord.com/invite/sAKgZZnPv4
 [hackathon-channel]: https://discord.com/channels/807348386012987462/1152628719354118205
-[issue-tracker]: https://github.com/MDAnalysis/UGM2023/issues
+[issue-tracker]: https://github.com/MDAnalysis/UGM2024/issues
