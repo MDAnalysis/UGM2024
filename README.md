@@ -26,7 +26,7 @@ All members of the MDAnalysis community and participants in this UGM are expecte
 | Day 2 | main meeting             | More talks about using and developing MDAnalysis, a keynote talk by Francesca Stanzione, a behind-the-scenes peek into the MDAnalysis library's code, and more! |
 | Day 3 | [hackathon](./hackathon) | Work with experts on MDAnalysis code or team up and build something amazing! |
 
-*The full program ([mdaUGM2024-agenda.pdf](./mdaUGM2024-agenda.pdf)) is included in this repo.* 
+*The full program ([mdaUGM2024-agenda.pdf](./mdaUGM2024-agenda.pdf)) and abstracts book ([mdaUGM2024-abstracts.pdf](./mdaUGM2024-abstracts.pdf)) are included in this repo.* 
 
 ## Health and Safety
 We are committed to providing a safe, comfortable, and healthy environment for the MDAnalysis UGM and have looked to local and international entities and other organizations in the open source community to develop onsite safety measures for UGM attendees.
