@@ -1,18 +1,19 @@
-# MDAnalysis UGM 2023
-The [MDAnalysis User Group Meeting](https://www.mdanalysis.org/pages/ugm2023/) (UGM) will bring together users and developers of the MDAnalysis package from different communities. Our goal is to foster an interdisciplinary opportunity to connect for researchers and developers across biomolecular simulations, soft matter, biophysics and more. This repository includes relevant materials for the UGM.
+# MDAnalysis UGM 2024
+
+<img
+src="https://github.com/MDAnalysis/branding/blob/main/logos/UGM/2024/mdanalysis-ugm2024.png"
+title="MDAnalysis UGM 2024" alt="MDAnalysis UGM 2024"
+style="float: left; height: 10em; " />
+
+The [MDAnalysis User Group Meeting](https://www.mdanalysis.org/pages/ugm2024/) (UGM) will bring together users and developers of the MDAnalysis package from different communities. Our goal is to foster an interdisciplinary opportunity to connect for researchers and developers across biomolecular simulations, soft matter, biophysics and more. This repository includes relevant materials for the UGM.
 
 ## When and Where
-### **Main Meeting (27th & 28th September)**
+### **Main Meeting (21st & 22nd August) and [Hackathon](./hackathon) (23rd August)**
 
-[Faculty of Sciences of the University of Lisbon](https://www.ulisboa.pt/en/unidade-organica/faculty-sciences) (ULisboa) Auditorium, Building C1
-Campo Grande, 1749-016 Lisbon, Portugal
+[King's College London (KCL) Bush House Lecture Theatre 1](https://www.kcl.ac.uk/kingsvenues/rooms/bh-lt1), Strand Campus
+30 Aldwych, London, WC2B 4BG, United Kingdom
 
-*A campus map ([ULisboaMap.pdf](./ULisboaMap.pdf)) is included in this repo.* 
-
-### **[Hackathon](./hackathon) (29th September)**
-
-[SANA Metropolitan Hotel](https://www.sanahotels.com/en/hotel/sana-metropolitan/), Madrid Room
-R. Soeiro Pereira Gomes 2, 1600-198 Lisbon, Portugal
+*A campus map ([KCLstrandMap.pdf](./KCLstrandMap.pdf)) is included in this repo.* 
 
 ## Code of Conduct
 All members of the MDAnalysis community and participants in this UGM are expected to abide by the MDAnalysis [Code of Conduct](https://www.mdanalysis.org/pages/conduct/) (CoC). If at any point you see or experience something that makes you uncomfortable, you may fill out the [reporting form](https://forms.gle/r2SMU4XcwM814CpJ9) or speak with any of the CoC committee members ([Jenna Swarthout Goddard](mailto:community@mdanalysis.org), [Micaela Matta](mailto:micaela@mdanalysis.org), [Richard Gowers](mailto:richard@mdanalysis.org)) at the UGM; the committee members will identify themselves at the start of the event.
@@ -21,11 +22,11 @@ All members of the MDAnalysis community and participants in this UGM are expecte
 
 | day   | name                     | description       |
 |-------|--------------------------|-------------------|
-| Day 1 | main meeting             | MDAnalysis State of the Union, talks related to using MDAnalysis in different applications, a keynote talk by Giovanni Pavan, and more! |
-| Day 2 | main meeting             | More talks about using and developing MDAnalysis, a keynote talk by Cédric Bouysset, an open discussion on the future directions for MDAnalysis, and more! |
+| Day 1 | main meeting             | MDAnalysis State of the Union, talks related to using MDAnalysis in different applications, a keynote talk by Antonia Mey, and more! |
+| Day 2 | main meeting             | More talks about using and developing MDAnalysis, a keynote talk by Francesca Stanzione, a behind-the-scenes peek into the MDAnalysis library's code, and more! |
 | Day 3 | [hackathon](./hackathon) | Work with experts on MDAnalysis code or team up and build something amazing! |
 
-*The full program ([mdaUGM2023_agenda.pdf](./mdaUGM2023_agenda.pdf)) is included in this repo.* 
+*The full program ([mdaUGM2024-agenda.pdf](./mdaUGM2024-agenda.pdf)) is included in this repo.* 
 
 ## Health and Safety
 We are committed to providing a safe, comfortable, and healthy environment for the MDAnalysis UGM and have looked to local and international entities and other organizations in the open source community to develop onsite safety measures for UGM attendees.
@@ -50,13 +51,36 @@ While we will be unable to enforce social distancing guidelines during the UGM, 
 
 Written materials are provided under the [CC-BY-4.0 SA license](LICENSE.md).
 
-The MDAnalysis logo and its derivatives are licensed under the Creative Commons Attribution-NoDerivs 3.0 Unported License.
+[NumFOCUS](https://numfocus.org/) as the fiscal sponsor of MDAnalysis holds all rights on the MDAnalysis logos and any future derivatives. See the file [https://github.com/MDAnalysis/branding/blob/main/logos/LICENSE](https://github.com/MDAnalysis/branding/blob/main/logos/LICENSE) for more details.
 
 ## Acknowledgements
 
-Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop
-materials.
+Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
 
-The MDAnalysis UGM has been made possible in part by CZI grants; 2022-253062, and DAF2021-237663 (grant DOI https://doi.org/10.37921/426590wiobus), from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989).
+The MDAnalysis UGM has been made possible in part by:
+* Chan Zuckerberg Initiative (CZI) grants; 2022-253062 and DAF2021-237663 (grant DOI https://doi.org/10.37921/426590wiobus), from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989)
+  
+<a href="https://chanzuckerberg.com/">
+<img
+src="/logos/CZI_Logo.jpg"
+title="Chan Zuckerberg Initiative Logo" alt="Chan Zuckerberg Initiative Logo"
+style="float: left; height: 5em; " />
+<a/>
+  
+* The Molecular Graphics and Modeling Society
+
+<a href="https://mgms.org/">
+<img
+src="/logos/MGMS_Logo.jpeg"
+title="Molecular Graphics and Modelling Society Logo" alt="Molecular Graphics and Modelling Society Logo"
+style="float: left; height: 5em; " />
+<a/>
 
 MDAnalysis also thanks [NumFOCUS](https://www.numfocus.org/) for its continued support as our fiscal sponsor.
+
+<a href="https://numfocus.org/">
+<img
+src="/logos/numfocus-sponsored.png"
+title="NumFOCUS Sponsored Project Logo" alt="NumFOCUS Sponsored Project Logo"
+style="float: left; height: 5em; " />
+<a/>
