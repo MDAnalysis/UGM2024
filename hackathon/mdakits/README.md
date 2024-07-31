@@ -100,6 +100,6 @@ project you'd like to work on, you can comment as such on the project's
 associated issue on the [UGM issue tracker][issue-tracker]. See who else 
 is interested, and form a team to tackle the issue together!
 
-[discord]: https://discord.com/invite/sAKgZZnPv4
-[hackathon-channel]: https://discord.com/channels/807348386012987462/1152628719354118205
+[discord]: https://discord.gg/kGaDXy7egd
+[hackathon-channel]: https://discord.com/channels/807348386012987462/1268305663558160516
 [issue-tracker]: https://github.com/MDAnalysis/UGM2024/issues
