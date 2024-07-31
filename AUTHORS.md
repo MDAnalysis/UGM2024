@@ -1,10 +1,10 @@
 # Authors
 
-The UGM2023 repository was created by Irfan Alibay in 2023.
+The UGM2024 repository was created by Jenna Swarthout Goddard (@jennaswa) in 2024, based on a clone from the [UGM2023](https://github.com/MDAnalysis/UGM2023) repository.
 
 All contributing authors are listed in this file below.
-The repository history at https://github.com/MDAnalysis/UGM2023
-and the CHANGELOG show individual code contributions.
+
+The repository history at https://github.com/MDAnalysis/UGM2024 and the CHANGELOG show individual code contributions.
 
 ## Chronological list of authors
 
@@ -18,13 +18,5 @@ The rules for this file:
   * Don't ever delete anything
 -->
 
-**2023**
-- Cédric Bouysset @cbouy
-- Irfan Alibay @IAlibay
-- Lily Wang @lilyminium
-- Fiona Naughton @fiona-naughton
-- Oliver Beckstein @orbeckst
+**2024**
 - Jenna M Swarthout Goddard @jennaswa
-- Brady Johnston @BradyAJohnston
-- Yuxuan Zhuang @yuxuanzhuang
-- Richard Gowers @richardjgowers
