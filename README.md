@@ -57,6 +57,15 @@ Written materials are provided under the [CC-BY-4.0 SA license](LICENSE.md).
 
 Please see [`AUTHORS.md`](AUTHORS.md) for a list of contributors to the workshop materials.
 
+We would like to give a special thanks to our partner for the 2024 MDAnalysis UGM, the [Thomas Young Centre](https://thomasyoungcentre.org/).
+
+<a href="https://thomasyoungcentre.org/">
+<img
+src="/logos/TYC_Logo.png"
+title="Thomas Young Centre Logo" alt="Thomas Young Centre Logo"
+style="float: left; height: 5em; " />
+<a/>
+
 The MDAnalysis UGM has been made possible in part by:
 * Chan Zuckerberg Initiative (CZI) grants; 2022-253062 and DAF2021-237663 (grant DOI https://doi.org/10.37921/426590wiobus), from the Chan Zuckerberg Initiative DAF, an advised fund of Silicon Valley Community Foundation (funder DOI 10.13039/100014989)
   
