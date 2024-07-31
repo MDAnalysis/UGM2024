@@ -8,8 +8,7 @@ anyone and hosted anywhere.
 
 ## Team
 
-The MDAKits team (@ianmkenney, @lilyminium, @fiona-naughton, @IAlibay,
-@orbeckst) will work with you on creating an MDAKit.
+The MDAKits team will work with you on creating an MDAKit.
 
 
 ## About MDAKits...
@@ -103,4 +102,4 @@ is interested, and form a team to tackle the issue together!
 
 [discord]: https://discord.com/invite/sAKgZZnPv4
 [hackathon-channel]: https://discord.com/channels/807348386012987462/1152628719354118205
-[issue-tracker]: https://github.com/MDAnalysis/UGM2023/issues
+[issue-tracker]: https://github.com/MDAnalysis/UGM2024/issues
