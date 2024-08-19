@@ -42,7 +42,7 @@ Coffee, tea and lunch *will* be provided.
    one to contribute to the main MDAnalysis codebase.
  - Join the [discord][] to follow the discussion on the
    [#hackathon channel][hackathon-channel]!
- - Look through the [ideas below](#What-should-I-work-on?), and start
+ - Look through the [ideas below](#What-should-I-work-on), and start
    to think how you'd like use your time during the hackathon to
    contribute to MDAnalysis.
    - If you have a specific project of your own in mind: raise an issue
@@ -99,25 +99,19 @@ Coffee, tea and lunch *will* be provided.
 
 #### Showcase
 At the end of the session, we will be holding a brief showcase to allow
-those who wish to share the work they achieved over the hackathon. 
+those who wish to share the work they achieved over the hackathon. If you want to present, add a slide to the shared Google slides presentation. A link will be provided beforehand. 
 
 This could be advertising a new feature you created or showing off a 
 bug fix you're particularly proud of; and need not be a "finished" 
 product - you can talk about what you got done, what future plans 
 are, and if there's still help wanted.
 
-If you do wish to share, add a slide for you/your team to the 
-shared presentation. We have a
-[Google Slides template](https://docs.google.com/presentation/d/1nezBx545EJlKI2_JRlTIz1L7PO7cdeLOYCcUzi4TsEc/edit#slide=id.g1e811d8524a_0_0),
-also available as a PDF ([./ShowcaseTemplate.pdf](ShowcaseTemplate.pdf)).
-Please submit in **PDF format** for portability by
-using [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfoG_mAJTLD4VfTV7s4zUgdbt9g3Pg07FDyDskNPQ73nXaGRw/viewform?usp=sf_link).
 Depending how many wish to present, time may be short, so have 
 an elevator pitch summary for your work ready!
 
 ### After the hackathon
 It's very possible that you won't "finish" a project within the 
-timelimit of the hackathon - and that's ok! Stay in contact with your
+time limit of the hackathon - and that's ok! Stay in contact with your
 team on GitHub or Discord - we strongly encourage you to keep working 
 on your project.
 
@@ -176,3 +170,9 @@ For more details, go to the [mdakits](./mdakits) directory.
 [discord]: https://discord.gg/kGaDXy7egd
 [hackathon-channel]: https://discord.com/channels/807348386012987462/1268305663558160516
 [issue-tracker]: https://github.com/MDAnalysis/UGM2024/issues
+
+### Special session: Parallel analysis
+
+After more than a full year of relentless effort from @marinegor and our amazing contributors, we’ve just merged a brand-new parallel analysis framework into the  [MDAnalysis develop branch](https://github.com/MDAnalysis/mdanalysis). This is your chance to be among the first to explore this blazingly fast tool. But we’re not done yet—--we need your sharp insights to help us refine it and make it even more user-friendly. It’s also a fantastic opportunity to integrate parallel capabilities into your own analysis code!
+
+Head over to the [parallel-analysis](./parallel-analysis) directory for all the details and get started!
