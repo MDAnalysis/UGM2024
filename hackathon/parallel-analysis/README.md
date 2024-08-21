@@ -20,7 +20,7 @@ For an example, see [this issue](https://github.com/MDAnalysis/mdanalysis/issues
 
 ### Fix Existing Known Issues and Improve the Framework
 
-We maintain a list of known issues and areas for improvement that we’d like to see addressed. These are tracked in the [issue tracker](https://github.com/MDAnalysis/mdanalysis/issues) under the `parallelization` label.
+We maintain a list of known issues and areas for improvement that we’d like to see addressed. These are tracked in the [issue tracker](https://github.com/MDAnalysis/mdanalysis/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22+label%3Aparallelization) under the `parallelization` label.
 
 ### Implement Parallel Analysis for Your Own Analysis Code
 
