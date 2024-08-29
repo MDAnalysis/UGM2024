@@ -20,3 +20,4 @@ The rules for this file:
 
 **2024**
 - Jenna M Swarthout Goddard @jennaswa
+- Valerij Talagayev @talagayev
