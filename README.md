@@ -10,10 +10,10 @@ The [MDAnalysis User Group Meeting](https://www.mdanalysis.org/pages/ugm2024/) (
 ## When and Where
 ### **Main Meeting (21st & 22nd August) and [Hackathon](./hackathon) (23rd August)**
 
-[King's College London (KCL) Bush House Lecture Theatre 1](https://www.kcl.ac.uk/kingsvenues/rooms/bh-lt1), Strand Campus
+[King's College London (KCL) Bush House Auditorium](https://www.kcl.ac.uk/kingsvenues/rooms/bh-auditorium), Strand Campus
 30 Aldwych, London, WC2B 4BG, United Kingdom
 
-*A campus map ([KCLstrandMap.pdf](./KCLstrandMap.pdf)) is included in this repo.* 
+*Directions and a campus map ([UGM_directions.pdf](./UGM_directions.pdf)) are included in this repo.* 
 
 ## Code of Conduct
 All members of the MDAnalysis community and participants in this UGM are expected to abide by the MDAnalysis [Code of Conduct](https://www.mdanalysis.org/pages/conduct/) (CoC). If at any point you see or experience something that makes you uncomfortable, you may fill out the [reporting form](https://forms.gle/r2SMU4XcwM814CpJ9) or speak with any of the CoC committee members ([Jenna Swarthout Goddard](mailto:community@mdanalysis.org), [Micaela Matta](mailto:micaela@mdanalysis.org), [Richard Gowers](mailto:richard@mdanalysis.org)) at the UGM; the committee members will identify themselves at the start of the event.
