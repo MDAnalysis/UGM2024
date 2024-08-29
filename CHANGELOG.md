@@ -21,9 +21,11 @@ The rules for this file:
 ### Authors
 <!-- GitHub usernames of contributors to this release -->
 - jennaswa
+- talagayev
 
 ### Added
 <!-- New added features -->
+- Added ./presentation_materials/talagayev_valerij
 
 ### Fixed
 <!-- Bug fixes -->
