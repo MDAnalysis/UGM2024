@@ -34,3 +34,10 @@
 | file name   | file format | short description              |
 |-------------|-------------|--------------------------------|
 |Hackathon_Introduction    |PDF          |presentation slides             |
+
+## **Hackathon Project Showcase**
+
+### Description of Materials
+| file name   | file format | short description              |
+|-------------|-------------|--------------------------------|
+|Hackathon_Showcase   |PDF          |presentation slides             |
