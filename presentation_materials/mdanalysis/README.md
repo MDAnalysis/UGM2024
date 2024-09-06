@@ -14,6 +14,14 @@
 |-------------|-------------|--------------------------------|
 |MDAnalysis_State_of_the_Union    |PDF          |presentation slides             |
 
+## **Everything You Wanted to Know About MDAnalysis, But Didn't Dare Ask!**, by Richard Gowers (@richardjgowers), Yuxuan Zhuang (@yuxuanzhuang) and Hugo MacDermott-Opeskin (@hmacdope)
+
+### Description of Materials
+| file name   | file format | short description              |
+|-------------|-------------|--------------------------------|
+|How_its_made_MDA_edition    |PDF          |presentation slides             |
+|parallel_analysis_session   |ipynb        |interactive notebook            |
+
 ## **Closing Remarks**, by Oliver Beckstein (@orbeckst)
 
 ### Description of Materials
