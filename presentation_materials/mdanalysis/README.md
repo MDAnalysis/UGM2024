@@ -21,6 +21,7 @@
 |-------------|-------------|--------------------------------|
 |How_its_made_MDA_edition    |PDF          |presentation slides             |
 |parallel_analysis_session   |ipynb        |interactive notebook            |
+|[https://www.mdanalysis.org/2024/08/03/gsoc2024_woods](https://www.mdanalysis.org/2024/08/03/gsoc2024_woods)  |URL  |"GSoC 2024 - Streaming H5MD trajectories from the cloud" blog post, by Lawson Woods (@ljwoods2)  |
 
 ## **Closing Remarks**, by Oliver Beckstein (@orbeckst)
 
